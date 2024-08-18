@@ -71,7 +71,7 @@ const BGImage = styled.div`
     font-weight: bold;
     color: #f9f9f9;
     background-color: #0066ff;
-    margin-bottom: 12px
+    margin-bottom: 12px;
     width: 100%;
     letter-spacing: 1.5px;
     font-size: 18px;
@@ -81,8 +81,9 @@ const BGImage = styled.div`
 
     &:hover{
       background-color: #0483ee;
-    }
-  `
+    }  `
+
+  
  const Description = styled.p`
  color: hsla(0, 0%, 95.3%, 1);
  font-size: 15px;
